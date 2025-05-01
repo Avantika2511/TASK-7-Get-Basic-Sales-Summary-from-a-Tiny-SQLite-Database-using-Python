@@ -1,7 +1,3 @@
-Certainly! Below is a summary of **Task 7** that you can add to the README file for your project:
-
----
-
 ## Task 7: Basic Sales Summary from SQLite Database
 
 ### **Objective:**
